@@ -15,6 +15,11 @@ if(b==1)
            d= a+c;
            printf ("resultado da soma = %f",d);
         }
+if(b==2)
+        {       
+           d= a-c;
+           printf ("resultado da subtracao = %f",d);
+        }
 system("PAUSE");
 }
 
