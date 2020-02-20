@@ -20,6 +20,16 @@ if(b==2)
            d= a-c;
            printf ("resultado da subtracao = %f",d);
         }
+if(b==3)
+        {       
+           d= a*c;
+           printf ("resultado da multiplicacao = %f",d);
+        }      
+if(b==4)
+        {       
+           d= a/c;
+           printf ("resultado da divisao = %f",d);
+        }       
 system("PAUSE");
 }
 
